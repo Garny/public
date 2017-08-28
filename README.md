@@ -1,2 +1,2 @@
-# microchip
-Projects on PICs
+# Public
+Public Projects
